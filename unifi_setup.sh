@@ -1,8 +1,6 @@
 #!/bin/bash
-#install script for unifi controller
-#Tested on Ubuntu Server 20.04
-#Brian Murray
-#v1
+#install script for unifi controller 5.13.29
+
 apt update && sudo apt upgrade -y
 apt install -y net-tools
 #helps with entropy issues for vm and headless servers
