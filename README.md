@@ -7,7 +7,14 @@ https://serveripaddress:8443
 * Tested using Ubuntu Server 20.04 LTS on Virtualbox
 * May require use of sudo
 ### Installing
-Make the script executable and run it on your target server.
+Make the script executable.
+```
+chmod +x unifi_setup.sh
+```
+Execute the installer script
+```
+sudo ./unifi_setup.sh
+```
 ### Helpful Commands
 Start unifi service
 ```
