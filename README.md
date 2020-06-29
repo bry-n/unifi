@@ -31,4 +31,5 @@ service unifi restart
 ## Helpful Resources
 * [Unifi Controller Requirements](https://help.ui.com/hc/en-us/articles/360012192813#unifi-requirements)
 * [Unifi release notes for 5.13.29](https://community.ui.com/releases/UniFi-Network-Controller-5-13-29/d7647910-77a2-4e61-bbfe-389206f2d6ad)
+* [UniFi - How to Install and Update via APT on Debian or Ubuntu](https://help.ui.com/hc/en-us/articles/220066768-UniFi-How-to-Install-and-Update-via-APT-on-Debian-or-Ubuntu) 
 
